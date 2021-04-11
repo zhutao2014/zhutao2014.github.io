@@ -5,6 +5,70 @@
     <link>https://zhutao2014.github.io/tags/</link>
     <description>Recent content in Tags on zhutao2014</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zhutao2014.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 10:38:22 +0800</lastBuildDate><atom:link href="https://zhutao2014.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beego</title>
+      <link>https://zhutao2014.github.io/tags/beego/</link>
+      <pubDate>Sun, 11 Apr 2021 10:38:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/tags/beego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://zhutao2014.github.io/tags/go/</link>
+      <pubDate>Sun, 11 Apr 2021 10:37:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>base</title>
+      <link>https://zhutao2014.github.io/tags/base/</link>
+      <pubDate>Sat, 10 Apr 2021 20:37:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/tags/base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cassandra</title>
+      <link>https://zhutao2014.github.io/tags/cassandra/</link>
+      <pubDate>Sat, 10 Apr 2021 20:37:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/tags/cassandra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://zhutao2014.github.io/tags/mysql/</link>
+      <pubDate>Sat, 10 Apr 2021 20:37:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ops</title>
+      <link>https://zhutao2014.github.io/tags/ops/</link>
+      <pubDate>Sat, 10 Apr 2021 20:37:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/tags/ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firewalld</title>
+      <link>https://zhutao2014.github.io/tags/firewalld/</link>
+      <pubDate>Fri, 09 Apr 2021 20:37:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/tags/firewalld/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

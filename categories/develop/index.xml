@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>develop on zhutao2014</title>
+    <link>https://zhutao2014.github.io/categories/develop/</link>
+    <description>Recent content in develop on zhutao2014</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 10:38:22 +0800</lastBuildDate><atom:link href="https://zhutao2014.github.io/categories/develop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beego框架学习(二)</title>
+      <link>https://zhutao2014.github.io/2021/04/11/beego%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E4%BA%8C/</link>
+      <pubDate>Sun, 11 Apr 2021 10:38:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/2021/04/11/beego%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E4%BA%8C/</guid>
+      <description>a
+a
+a</description>
+    </item>
+    
+    <item>
+      <title>beego框架学习(一)</title>
+      <link>https://zhutao2014.github.io/2021/04/11/beego%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E4%B8%80/</link>
+      <pubDate>Sun, 11 Apr 2021 10:37:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/2021/04/11/beego%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E4%B8%80/</guid>
+      <description>&amp;ldquo;Beego框架实战第一天&amp;rdquo; </description>
+    </item>
+    
+    <item>
+      <title>go语言基础(一)-初识go语言</title>
+      <link>https://zhutao2014.github.io/2021/04/11/go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%E4%B8%80-%E5%88%9D%E8%AF%86go%E8%AF%AD%E8%A8%80/</link>
+      <pubDate>Sun, 11 Apr 2021 10:37:22 +0800</pubDate>
+      
+      <guid>https://zhutao2014.github.io/2021/04/11/go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%E4%B8%80-%E5%88%9D%E8%AF%86go%E8%AF%AD%E8%A8%80/</guid>
+      <description>初识go语言 </description>
+    </item>
+    
+    <item>
+      <title>beego框架学习(三)</title>
+      <link>https://zhutao2014.github.io/1/01/01/beego%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E4%B8%89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhutao2014.github.io/1/01/01/beego%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E4%B8%89/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
